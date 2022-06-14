@@ -3,12 +3,9 @@
 This is 
 
 # Deekshith Bellare
-I am an iOS engineer.    
+I am an engineer at Apple   
 Product oriented developer.     
-Technical Lead (Core Team) at Paytm.        
-
-Currently, I am working on optimizations at Paytm and trying to make the app used by over 330 million users smoother than ever!    
-Previously led the mobile and web team to launch Paytm hotels. 
+       
 
 Say hi at [@deebellare](https://twitter.com/deebellare)
 
